@@ -4,7 +4,7 @@ it is an application that will promote groups that make **social aid** to Madaga
 
 # Installation
 
-Need rails 2.5.1 to run **offline!**
+Need ruby 2.5.3 and rails 5.2.2 to run **offline!**
 
     > git clone https://github.com/tinosam/faiseur_paix.git
 
