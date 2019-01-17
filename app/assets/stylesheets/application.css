@@ -13,3 +13,24 @@
  *= require_tree .
  *= require_self
  */
+
+video {
+    object-fit: cover !important;
+}
+.slider-text h1 {
+    font-family: 'Satisfy', cursive;
+}
+@media (min-width: 768px) {
+    .ftco-navbar-light .navbar-brand {
+        font-family: 'Amatic SC', cursive;
+        font-size: 30px;
+    }
+}
+body {
+    color: #636363 !important;
+    font-weight: 800 !important;
+}
+
+.services .icon span {
+    color: #ffffff !important;
+}
