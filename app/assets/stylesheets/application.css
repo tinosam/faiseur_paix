@@ -27,14 +27,17 @@ video {
     }
 }
 body {
-    color: #636363 !important;
+    color: black !important;
     font-weight: 800 !important;
 }
 
 .services .icon span {
-    color: #ffffff !important;
+    color: black !important;
 }
 
 h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
-    color: #4c4949 !important;
+    color: black !important;
+}
+.slider-text h1 {
+    color: #fff !important;
 }
