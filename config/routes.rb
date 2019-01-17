@@ -3,6 +3,7 @@ Rails.application.routes.draw do
   get 'home/contact'
   get 'home/donate'
     get 'home/gallery'
+    get 'home/about'
 
 
   root to: 'home#index'
